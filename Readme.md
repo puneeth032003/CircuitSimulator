@@ -84,3 +84,7 @@ Python 3.10+
 Streamlit – Web-based UI
 NumPy – Numerical computation
 NetworkX & Matplotlib – Circuit visualization
+
+##  LINK
+https://cerebrovascular-paraphrastically-marlin.ngrok-free.dev/#ac-dc-circuit-simulator-phasor-support
+
