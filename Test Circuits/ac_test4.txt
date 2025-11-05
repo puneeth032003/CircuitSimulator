@@ -1,0 +1,6 @@
+# Two Voltage Sources
+V1 1 0 10∠0
+V2 2 0 5∠90
+R1 1 2 100
+R2 1 0 50
+R3 2 0 75

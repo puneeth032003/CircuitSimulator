@@ -1,0 +1,6 @@
+# Mesh circuit with floating node
+V1 1 0 9
+R1 1 2 1000
+R2 2 3 1500
+R3 3 1 2200
+R4 2 0 1800

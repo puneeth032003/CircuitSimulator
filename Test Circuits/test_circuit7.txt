@@ -1,0 +1,15 @@
+# Advanced mixed circuit (floating node + 2 sources)
+# Circuit topology:
+#  V1 between Node 1 and GND
+#  V2 between Node 4 and Node 5 (floating source)
+#  Multiple resistors forming complex mesh
+
+V1 1 0 12
+V2 4 5 5
+R1 1 2 1000
+R2 2 3 1500
+R3 3 0 2200
+R4 2 4 1800
+R5 4 5 1200
+R6 5 3 1000
+R7 2 5 2000

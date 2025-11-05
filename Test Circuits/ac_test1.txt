@@ -1,0 +1,4 @@
+# Simple Series AC
+V1 1 0 10∠0
+R1 1 2 100
+R2 2 0 200
